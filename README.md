@@ -119,11 +119,5 @@ plt.show()
 
 
 
-
-
-
-![simple linear regression model for predicting the marks scored](sam.png)
-
-
 ## Result:
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
